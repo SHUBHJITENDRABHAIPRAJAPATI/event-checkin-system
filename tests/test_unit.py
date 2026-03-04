@@ -1,3 +1,8 @@
+// tests/test_unit.py
+// shubh prajapati
+// Unit tests for the event check-in system using SQLAlchemy and FastAPI
+
+
 import pytest
 from unittest.mock import MagicMock
 from app.services import EventService

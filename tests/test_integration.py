@@ -1,3 +1,9 @@
+// tests/test_integration.py
+// shubh prajapati
+// Integration tests for the event check-in system using SQLAlchemy and FastAPI
+
+
+
 from app.database import SessionLocal, Base, engine
 from app.services import EventService
 from datetime import date

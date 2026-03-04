@@ -1,3 +1,9 @@
+// app/repository.py
+// shubh prajapati
+// Repository layer for the event check-in system using SQLAlchemy
+
+
+
 from .models import Event, Attendee
 
 class EventRepository:

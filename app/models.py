@@ -1,3 +1,9 @@
+// app/models.py
+// shubh prajapati
+// Database models for the event check-in system using SQLAlchemy
+
+
+
 from sqlalchemy import Column, Integer, String, Date, Boolean, ForeignKey
 from sqlalchemy.orm import relationship
 from .database import Base

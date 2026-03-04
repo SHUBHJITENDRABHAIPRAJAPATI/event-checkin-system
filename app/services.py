@@ -1,3 +1,9 @@
+// app/services.py
+// shubh prajapati
+// Service layer for the event check-in system using SQLAlchemy
+
+
+
 import re
 from .repository import EventRepository, AttendeeRepository
 

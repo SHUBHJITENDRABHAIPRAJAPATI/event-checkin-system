@@ -1,3 +1,10 @@
+// app/main.py
+// shubh prajapati
+// Main application file for the event check-in system using FastAPI
+// This file defines the API endpoints for creating events, registering attendees, checking in, and generating reports.
+
+
+
 from fastapi import FastAPI
 from datetime import date
 from .database import engine, Base, SessionLocal
