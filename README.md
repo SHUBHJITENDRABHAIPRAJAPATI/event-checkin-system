@@ -1,6 +1,6 @@
 Event Check-In and Attendance System
-Overview
 
+Overview:
 This project is a simple Event Check-In and Attendance System created using Python, FastAPI, SQLAlchemy, and SQLite.
 
 The main goal of this project is to manage events and track attendees from registration to check-in. It simulates how real events handle attendance in a structured and organized way.
